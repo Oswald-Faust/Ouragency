@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4022" height="3356" viewBox="0 0 4022 3356" preserveAspectRatio="none">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#235182"/>
+      <stop offset="1" stop-color="#235182" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2a2955"/>
+      <stop offset="1" stop-color="#2a2955" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="Gruppe_2110" data-name="Gruppe 2110" transform="translate(-5180 11439)">
+    <rect id="Rechteck_1571" data-name="Rechteck 1571" width="4022" height="3356" transform="translate(5180 -11439)" fill="none"/>
+    <circle id="Ellipse_83" data-name="Ellipse 83" cx="1116" cy="1116" r="1116" transform="translate(5180 -11348)" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_81" data-name="Ellipse 81" cx="917" cy="917" r="917" transform="translate(6924 -9917)" fill="url(#radial-gradient-2)"/>
+  </g>
+</svg>
